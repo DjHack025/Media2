@@ -1,0 +1,10 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YT2VsN5.jpg" group-title="TV", Canal 4 NRT 
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YT2VsN5.jpg" group-title="TV", Canal 6 NRT
+https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YT2VsN5.jpg" group-title="TV", Canal 10 NRT
+https://59e88b197fb16.streamlock.net:4443/live/canal10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YT2VsN5.jpg" group-title="TV", Canal 24 NRT
+https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
